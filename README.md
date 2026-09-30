@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  🛡️ UYIRKAVAL (உயிர்காவல்) / NIRBHAY
+  🛡️ UYIRKAVAL (உயிர்காவல்) 
 </h1>
 
 <p align="center">
